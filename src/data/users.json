@@ -1,0 +1,8 @@
+[
+  { "id": 1, "username": "superadmin", "email": "superadmin@demo.com", "role": "super_admin", "status": "approved", "createdAt": "2024-01-01" },
+  { "id": 2, "username": "budi.santoso", "email": "budi@demo.com", "role": "admin", "status": "approved", "createdAt": "2024-01-15" },
+  { "id": 3, "username": "dewi.rahayu", "email": "dewi@demo.com", "role": "consultant", "status": "approved", "createdAt": "2024-02-01" },
+  { "id": 4, "username": "ahmad.fauzi", "email": "ahmad@demo.com", "role": "consultant", "status": "approved", "createdAt": "2024-02-15" },
+  { "id": 5, "username": "siti.nurhaliza", "email": "siti@demo.com", "role": "viewer", "status": "approved", "createdAt": "2024-03-01" },
+  { "id": 6, "username": "reza.pending", "email": "reza@demo.com", "role": null, "status": "pending_approval", "createdAt": "2026-06-20" }
+]

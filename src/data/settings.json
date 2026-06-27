@@ -1,0 +1,7 @@
+{
+  "awareness_to_interest": 95,
+  "interest_to_consideration": 50,
+  "consideration_to_purchase": 40,
+  "purchase_to_retention": 60,
+  "retention_to_advocacy": 50
+}

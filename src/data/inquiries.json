@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "inq-001",
+    "companyName": "PT Karya Sejahtera Mandiri",
+    "picKlien": "Andi Wijaya",
+    "phone": "0812-3456-7890",
+    "email": "andi@karyasejahtera.co.id",
+    "sumber": "digital_marketing",
+    "channel": "website",
+    "jenisPenawaran": "AMDAL",
+    "currentStage": "interest",
+    "isDropped": false,
+    "droppedAtStage": null,
+    "projectValue": null,
+    "picInternal": "Budi Santoso",
+    "noSurat": null,
+    "notes": "Tertarik untuk proyek pabrik baru di Bekasi",
+    "tanggalMasuk": "2025-01-15",
+    "createdAt": "2025-01-15",
+    "updatedAt": "2025-01-17",
+    "followUps": [
+      {
+        "number": 1,
+        "scheduledDate": "2025-01-20",
+        "done": true,
+        "doneDate": "2025-01-20"
+      },
+      {
+        "number": 2,
+        "scheduledDate": "2025-02-01",
+        "done": false,
+        "doneDate": null
+      },
+      {
+        "number": 3,
+        "scheduledDate": null,
+        "done": false,
+        "doneDate": null
+      }
+    ]
+  },
+  {
+    "id": "inq-002",
+    "companyName": "CV Maju Bersama",
+    "picKlien": "Sari Dewi",
+    "phone": "0813-2345-6789",
+    "email": "sari@majubersama.com",
+    "sumber": "digital_marketing",
+    "channel": "website",
+    "jenisPenawaran": "UKL-UPL",
+    "currentStage": "interest",
+    "isDropped": false,
+    "droppedAtStage": null,
+    "projectValue": null,
+    "picInternal": "Dewi Rahayu",
+    "noSurat": null,
+    "notes": "Perusahaan tambang batubara, butuh dokumen lingkungan",
+    "tanggalMasuk": "2025-02-03",
+    "createdAt": "2025-02-03",
+    "updatedAt": "2025-02-05",
+    "followUps": [
+      {
+        "number": 1,
+        "scheduledDate": "2025-02-10",
+        "done": true,
+        "doneDate": "2025-02-10"
+      },
+      {
+        "number": 2,
+        "scheduledDate": "2025-02-20",
+        "done": false,
+        "doneDate": null
+      },
+      {
+        "number": 3,
+        "scheduledDate": null,
+        "done": false,
+        "doneDate": null
+      }
+    ]
+  },
+  {
+    "id": "inq-003",
+    "companyName": "PT Bangun Nusantara",
+    "picKlien": "Rudi Hartono",
+    "phone": "0821-3456-7891",
+    "email": "rudi@bangun-nusantara.id",
+    "sumber": "digital_marketing",
+    "channel": "website",
+    "jenisPenawaran": "SPPL",
+    "currentStage": "interest",
+    "isDropped": false,
+    "droppedAtStage": null,
+    "projectValue": null,
+    "picInternal": "Ahmad Fauzi",
+    "noSurat": null,
+    "notes": "Proyek konstruksi perumahan, skala menengah",
+    "tanggalMasuk": "2025-02-18",
+    "createdAt": "2025-02-18",
+    "updatedAt": "2025-02-20",
+    "followUps": [
+      {
+        "number": 1,
+        "scheduledDate": "2025-02-25",
+        "done": false,
+        "doneDate": null
+      },
+      {
+        "number": 2,
+        "scheduledDate": null,
+        "done": false,
+        "doneDate": null
+      },
+      {
+        "number": 3,
+        "scheduledDate": null,
+        "done": false,
+        "doneDate": null
+      }
+    ]
+  },
+  {
+    "id": "inq-004",
+    "companyName": "PT Delta Konstruksi",
+    "picKlien": "Hendra Kusuma",
+    "phone": "0815-4567-8901",
+    "email": "hendra@deltakons.co.id",
+    "sumber": "internal",
+    "channel": null,
+    "jenisPenawaran": "AMDAL",
+    "currentStage": "interest",
+    "isDropped": false,
+    "droppedAtStage": null,
+    "projectValue": null,
+    "picInternal": "Siti Nurhaliza",
+    "noSurat": null,
+    "notes": "Referensi dari klien lama, proyek jalan tol",
+    "tanggalMasuk": "2025-03-05",
+    "createdAt": "2025-03-05",
+    "updatedAt": "2025-03-07",
+    "followUps": [
+      {
+        "number": 1,
+        "scheduledDate": "2025-03-12",
+        "done": true,
+        "doneDate": "2025-03-12"
+      },
+      {
+        "number": 2,
+        "scheduledDate": "2025-03-25",
+        "done": false,
+        "doneDate": null
+      },
+      {
+        "number": 3,
+        "scheduledDate": null,
+        "done": false,
+        "doneDate": null
+      }
+    ]
+  },
+  {
+    "id": "inq-005",
+    "companyName": "CV Surya Pratama",
+    "picKlien": "Lestari Indah",
+    "phone": "0819-5678-9012",
+    "email": "lestari@suryapratama.com",
+    "sumber": "digital_marketing",
+    "channel": "website",
+    "jenisPenawaran": "UKL-UPL",
+    "currentStage": "interest",
+    "isDropped": false,
+    "droppedAtStage": null,
+    "projectValue": null,
+    "picInternal": "Reza Pratama",
+    "noSurat": null,
+    "notes": "Usaha pengolahan limbah, ingin memenuhi regulasi",
+    "tanggalMasuk": "2025-03-22",
+    "createdAt": "2025-03-22",
+    "updatedAt": "2025-03-24",
+    "followUps": [
+      {
+        "number": 1,
+        "scheduledDate": "2025-03-30",
+        "done": false,
+        "doneDate": null
+      },
+      {
+        "number": 2,
+        "scheduledDate": null,
+        "done": false,
+        "doneDate": null
+      },
+      {
+        "number": 3,
+        "scheduledDate": null,
+        "done": false,
+        "doneDate": null
+      }
+    ]
+  },
+  {
+    "id": "inq-006",
+    "companyName": "PT Cipta Karya Abadi",
+    "picKlien": "Wahyu Prasetyo",
+    "phone": "0878-6789-0123",
+    "email": "wahyu@ciptakarya.id",
+    "sumber": "digital_marketing",
+    "channel": "website",
+    "jenisPenawaran": "KLHS",
+    "currentStage": "interest",
+    "isDropped": false,
+    "droppedAtStage": null,
+    "projectValue": null,
+    "picInternal": "Budi Santoso",
+    "noSurat": null,
+    "notes": "Kawasan industri baru, perlu KLHS terlebih dahulu",
+    "tanggalMasuk": "2025-04-10",
+    "createdAt": "2025-04-10",
+    "updatedAt": "2025-04-12",
+    "followUps": [
+      {
+        "number": 1,
+        "scheduledDate": "2025-04-17",
+        "done": true,
+        "doneDate": "2025-04-17"
+      },
+      {
+        "number": 2,
+        "scheduledDate": "2025-04-28",
+        "done": false,
+        "doneDate": null
+      },
+      {
+        "number": 3,
+        "scheduledDate": null,
+        "done": false,
+        "doneDate": null
+      }
+    ]
+  },
+  {
+    "id": "inq-007",
+    "companyName": "PT Sumber Daya Alam",
+    "picKlien": "Bambang Setiawan",
+    "phone": "0856-7890-1234",
+    "email": "bambang@sda-corp.co.id",
+    "sumber": "internal",
+    "channel": null,
+    "jenisPenawaran": "Audit Lingkungan",
+    "currentStage": "interest",
+    "isDropped": false,
+    "droppedAtStage": null,
+    "projectValue": null,
+    "picInternal": "Dewi Rahayu",
+    "noSurat": null,
+    "notes": "Perusahaan pertambangan, perlu audit rutin tahunan",
+    "tanggalMasuk": "2025-05-08",
+    "createdAt": "2025-05-08",
+    "updatedAt": "2025-05-10",
+    "followUps": [
+      {
+        "number": 1,
+        "scheduledDate": "2025-05-15",
+        "done": false,
+        "doneDate": null
+      },
+      {
+        "number": 2,
+        "scheduledDate": null,
+        "done": false,
+        "doneDate": null
+      },
+      {
+        "number": 3,
+        "scheduledDate": null,
+        "done": false,
+        "doneDate": null
+      }
+    ]
+  },
+  {
+    "id": "inq-008",
+    "companyName": "CV Berkah Jaya",
+    "picKlien": "Nurul Fatimah",
+    "phone": "0812-8901-2345",
+    "email": "nurul@berkahjaya.com",
+    "sumber": "digital_marketing",
+    "channel": "website",
+    "jenisPenawaran": "SPPL",
+    "currentStage": "interest",
+    "isDropped": false,
+    "droppedAtStage": null,
+    "projectValue": null,
+    "picInternal": "Ahmad Fauzi",
+    "noSurat": null,
+    "notes": "Usaha kecil menengah, pemotongan hewan",
+    "tanggalMasuk": "2025-06-15",
+    "createdAt": "2025-06-15",
+    "updatedAt": "2025-06-17",
+    "followUps": [
+      {
+        "number": 1,
+        "scheduledDate": "2025-06-22",
+        "done": true,
+        "doneDate": "2025-06-22"
+      },
+      {
+        "number": 2,
+        "scheduledDate": "2025-07-01",
+        "done": false,
+        "doneDate": null
+      },
+      {
+        "number": 3,
+        "scheduledDate": null,
+        "done": false,
+        "doneDate": null
+      }
+    ]
+  },
+  {
+    "id": "inq-009",
+    "companyName": "PT Mega Proyek Indonesia",
+    "picKlien": "Agus Salim",
+    "phone": "0877-9012-3456",
+    "email": "agus@megaproyek.id",
+    "sumber": "internal",
+    "channel": null,
+    "jenisPenawaran": "AMDAL",
+    "currentStage": "interest",
+    "isDropped": false,
+    "droppedAtStage": null,
+    "projectValue": null,
+    "picInternal": "Siti Nurhaliza",
+    "noSurat": null,
+    "notes": "Proyek PLTU, agen dari Surabaya",
+    "tanggalMasuk": "2025-07-20",
+    "createdAt": "2025-07-20",
+    "updatedAt": "2025-07-22",
+    "followUps": [
+      {
+        "number": 1,
+        "scheduledDate": "2025-07-28",
+        "done": false,
+        "doneDate": null
+      },
+      {
+        "number": 2,
+        "scheduledDate": null,
+        "done": false,
+        "doneDate": null
+      },
+      {
+        "number": 3,
+        "scheduledDate": null,
+        "done": false,
+        "doneDate": null
+      }
+    ]
+  },
+  {
+    "id": "inq-010",
+    "companyName": "PT Alam Lestari",
+    "picKlien": "Dian Permata",
+    "phone": "0823-0123-4567",
+    "email": "dian@alamlestari.co.id",
+    "sumber": "digital_marketing",
+    "channel": "website",
+    "jenisPenawaran": "Persetujuan Lingkungan",
+    "currentStage": "interest",
+    "isDropped": false,
+    "droppedAtStage": null,
+    "projectValue": null,
+    "picInternal": "Reza Pratama",
+    "noSurat": null,
+    "notes": "Perusahaan agrobisnis, perlu dokumen baru",
+    "tanggalMasuk": "2025-08-05",
+    "createdAt": "2025-08-05",
+    "updatedAt": "2025-08-07",
+    "followUps": [
+      {
+        "number": 1,
+        "scheduledDate": "2025-08-12",
+        "done": true,
+        "doneDate": "2025-08-13"
+      },
+      {
+        "number": 2,
+        "scheduledDate": "2025-08-25",
+        "done": false,
+        "doneDate": null
+      },
+      {
+        "number": 3,
+        "scheduledDate": null,
+        "done": false,
+        "doneDate": null
+      }
+    ]
+  },
+  {
+    "id": "inq-011",
+    "companyName": "CV Panca Niaga",
+    "picKlien": "Eko Purnomo",
+    "phone": "0818-1234-5678",
+    "email": "eko@pancaniaga.com",
+    "sumber": "digital_marketing",
+    "channel": "website",
+    "jenisPenawaran": "UKL-UPL",
+    "currentStage": "consideration",
+    "isDropped": false,
+    "droppedAtStage": null,
+    "projectValue": 150000000,
+    "picInternal": "Budi Santoso",
+    "noSurat": "SP/2025/001",
+    "notes": "Pabrik tekstil, sudah terima proposal, sedang review",
+    "tanggalMasuk": "2024-11-10",
+    "createdAt": "2024-11-10",
+    "updatedAt": "2024-11-20",
+    "followUps": [
+      {
+        "number": 1,
+        "scheduledDate": "2024-11-17",
+        "done": true,
+        "doneDate": "2024-11-17"
+      },
+      {
+        "number": 2,
+        "scheduledDate": "2024-11-28",
+        "done": true,
+        "doneDate": "2024-11-29"
+      },
+      {
+        "number": 3,
+        "scheduledDate": "2024-12-10",
+        "done": false,
+        "doneDate": null
+      }
+    ]
+  },
+  {
+    "id": "inq-012",
+    "companyName": "PT Graha Sentosa",
+    "picKlien": "Fitri Handayani",
+    "phone": "0856-2345-6789",
+    "email": "fitri@grahasentosa.id",
+    "sumber": "internal",
+    "channel": null,
+    "jenisPenawaran": "AMDAL",
+    "currentStage": "consideration",
+    "isDropped": false,
+    "droppedAtStage": null,
+    "projectValue": 800000000,
+    "picInternal": "Dewi Rahayu",
+    "noSurat": "SP/2025/002",
+    "notes": "Proyek properti komersial, nilai besar",
+    "tanggalMasuk": "2024-12-01",
+    "createdAt": "2024-12-01",
+    "updatedAt": "2024-12-15",
+    "followUps": [
+      {
+        "number": 1,
+        "scheduledDate": "2024-12-08",
+        "done": true,
+        "doneDate": "2024-12-08"
+      },
+      {
+        "number": 2,
+        "scheduledDate": "2024-12-20",
+        "done": true,
+        "doneDate": "2024-12-20"
+      },
+      {
+        "number": 3,
+        "scheduledDate": "2025-01-05",
+        "done": false,
+        "doneDate": null
+      }
+    ]
+  },
+  {
+    "id": "inq-013",
+    "companyName": "PT Putra Mahkota",
+    "picKlien": "Gunawan Santoso",
+    "phone": "0819-3456-7890",
+    "email": "gunawan@putramahkota.co.id",
+    "sumber": "digital_marketing",
+    "channel": "website",
+    "jenisPenawaran": "KLHS",
+    "currentStage": "consideration",
+    "isDropped": false,
+    "droppedAtStage": null,
+    "projectValue": 350000000,
+    "picInternal": "Ahmad Fauzi",
+    "noSurat": "SP/2025/003",
+    "notes": "Rencana pengembangan kota baru, butuh KLHS",
+    "tanggalMasuk": "2025-01-05",
+    "createdAt": "2025-01-05",
+    "updatedAt": "2025-01-18",
+    "followUps": [
+      {
+        "number": 1,
+        "scheduledDate": "2025-01-12",
+        "done": true,
+        "doneDate": "2025-01-12"
+      },
+      {
+        "number": 2,
+        "scheduledDate": "2025-01-25",
+        "done": true,
+        "doneDate": "2025-01-26"
+      },
+      {
+        "number": 3,
+        "scheduledDate": "2025-02-05",
+        "done": false,
+        "doneDate": null
+      }
+    ]
+  },
+  {
+    "id": "inq-014",
+    "companyName": "CV Aneka Usaha",
+    "picKlien": "Rina Marlina",
+    "phone": "0812-4567-8901",
+    "email": "rina@anekausaha.com",
+    "sumber": "digital_marketing",
+    "channel": "website",
+    "jenisPenawaran": "SPPL",
+    "currentStage": "consideration",
+    "isDropped": false,
+    "droppedAtStage": null,
+    "projectValue": 75000000,
+    "picInternal": "Siti Nurhaliza",
+    "noSurat": "SP/2025/004",
+    "notes": "Usaha laundry industri, perlu izin lingkungan",
+    "tanggalMasuk": "2025-01-28",
+    "createdAt": "2025-01-28",
+    "updatedAt": "2025-02-10",
+    "followUps": [
+      {
+        "number": 1,
+        "scheduledDate": "2025-02-04",
+        "done": true,
+        "doneDate": "2025-02-04"
+      },
+      {
+        "number": 2,
+        "scheduledDate": "2025-02-14",
+        "done": true,
+        "doneDate": "2025-02-14"
+      },
+      {
+        "number": 3,
+        "scheduledDate": "2025-02-25",
+        "done": false,
+        "doneDate": null
+      }
+    ]
+  },
+  {
+    "id": "inq-015",
+    "companyName": "PT Bumi Pertiwi",
+    "picKlien": "Hendro Wibowo",
+    "phone": "0877-5678-9012",
+    "email": "hendro@bumipertiwi.id",
+    "sumber": "internal",
+    "channel": null,
+    "jenisPenawaran": "Audit Lingkungan",
+    "currentStage": "consideration",
+    "isDropped": false,
+    "droppedAtStage": null,
+    "projectValue": 220000000,
+    "picInternal": "Reza Pratama",
+    "noSurat": "SP/2025/005",
+    "notes": "Pabrik semen, audit periodik",
+    "tanggalMasuk": "2025-02-12",
+    "createdAt": "2025-02-12",
+    "updatedAt": "2025-02-25",
+    "followUps": [
+      {
+        "number": 1,
+        "scheduledDate": "2025-02-19",
+        "done": true,
+        "doneDate": "2025-02-19"
+      },
+      {
+        "number": 2,
+        "scheduledDate": "2025-03-01",
+        "done": true,
+        "doneDate": "2025-03-02"
+      },
+      {
+        "number": 3,
+        "scheduledDate": "2025-03-15",
+        "done": false,
+        "doneDate": null
+      }
+    ]
+  },
+  {
+    "id": "inq-016",
+    "companyName": "PT Fajar Nusantara",
+    "picKlien": "Surya Adiputra",
+    "phone": "0813-6789-0123",
+    "email": "surya@fajarnusantara.co.id",
+    "sumber": "digital_marketing",
+    "channel": "website",
+    "jenisPenawaran": "UKL-UPL",
+    "currentStage": "consideration",
+    "isDropped": false,
+    "droppedAtStage": null,
+    "projectValue": 180000000,
+    "picInternal": "Budi Santoso",
+    "noSurat": "SP/2025/006",
+    "notes": "Peternakan sapi skala besar di Jawa Timur",
+    "tanggalMasuk": "2025-03-01",
+    "createdAt": "2025-03-01",
+    "updatedAt": "2025-03-14",
+    "followUps": [
+      {
+        "number": 1,
+        "scheduledDate": "2025-03-08",
+        "done": true,
+        "doneDate": "2025-03-08"
+      },
+      {
+        "number": 2,
+        "scheduledDate": "2025-03-18",
+        "done": true,
+        "doneDate": "2025-03-18"
+      },
+      {
+        "number": 3,
+        "scheduledDate": "2025-04-01",
+        "done": false,
+        "doneDate": null
+      }
+    ]
+  },
+  {
+    "id": "inq-017",
+    "companyName": "PT Gema Persada",
+    "picKlien": "Dewi Susanti",
+    "phone": "0822-7890-1234",
+    "email": "dewi@gemapersada.id",
+    "sumber": "digital_marketing",
+    "channel": "website",
+    "jenisPenawaran": "AMDAL",
+    "currentStage": "consideration",
+    "isDropped": false,
+    "droppedAtStage": null,
+    "projectValue": 1200000000,
+    "picInternal": "Dewi Rahayu",
+    "noSurat": "SP/2025/007",
+    "notes": "Proyek refinery minyak sawit, skala besar",
+    "tanggalMasuk": "2025-03-15",
+    "createdAt": "2025-03-15",
+    "updatedAt": "2025-03-28",
+    "followUps": [
+      {
+        "number": 1,
+        "scheduledDate": "2025-03-22",
+        "done": true,
+        "doneDate": "2025-03-22"
+      },
+      {
+        "number": 2,
+        "scheduledDate": "2025-04-02",
+        "done": true,
+        "doneDate": "2025-04-03"
+      },
+      {
+        "number": 3,
+        "scheduledDate": "2025-04-15",
+        "done": false,
+        "doneDate": null
+      }
+    ]
+  },
+  {
+    "id": "inq-018",
+    "companyName": "CV Harapan Baru",
+    "picKlien": "Marcelino Putra",
+    "phone": "0815-8901-2345",
+    "email": "marcelino@harapanbaru.com",
+    "sumber": "internal",
+    "channel": null,
+    "jenisPenawaran": "Persetujuan Lingkungan",
+    "currentStage": "consideration",
+    "isDropped": false,
+    "droppedAtStage": null,
+    "projectValue": 95000000,
+    "picInternal": "Ahmad Fauzi",
+    "noSurat": "SP/2025/008",
+    "notes": "Klinik kesehatan, perlu persetujuan lingkungan",
+    "tanggalMasuk": "2025-04-02",
+    "createdAt": "2025-04-02",
+    "updatedAt": "2025-04-15",
+    "followUps": [
+      {
+        "number": 1,
+        "scheduledDate": "2025-04-09",
+        "done": true,
+        "doneDate": "2025-04-09"
+      },
+      {
+        "number": 2,
+        "scheduledDate": "2025-04-20",
+        "done": false,
+        "doneDate": null
+      },
+      {
+        "number": 3,
+        "scheduledDate": null,
+        "done": false,
+        "doneDate": null
+      }
+    ]
+  },
+  {
+    "id": "inq-019",
+    "companyName": "PT Indah Kiat",
+    "picKlien": "Pratiwi Lestari",
+    "phone": "0857-9012-3456",
+    "email": "pratiwi@indahkiat.co.id",
+    "sumber": "digital_marketing",
+    "channel": "website",
+    "jenisPenawaran": "UKL-UPL",
+    "currentStage": "consideration",
+    "isDropped": false,
+    "droppedAtStage": null,
+    "projectValue": 280000000,
+    "picInternal": "Siti Nurhaliza",
+    "noSurat": "SP/2025/009",
+    "notes": "Industri pulp dan kertas, butuh update dokumen",
+    "tanggalMasuk": "2025-04-18",
+    "createdAt": "2025-04-18",
+    "updatedAt": "2025-05-01",
+    "followUps": [
+      {
+        "number": 1,
+        "scheduledDate": "2025-04-25",
+        "done": true,
+        "doneDate": "2025-04-25"
+      },
+      {
+        "number": 2,
+        "scheduledDate": "2025-05-05",
+        "done": true,
+        "doneDate": "2025-05-06"
+      },
+      {
+        "number": 3,
+        "scheduledDate": "2025-05-15",
+        "done": false,
+        "doneDate": null
+      }
+    ]
+  },
+  {
+    "id": "inq-020",
+    "companyName": "PT Jaya Abadi",
+    "picKlien": "Suharto Wibisono",
+    "phone": "0878-0123-4567",
+    "email": "suharto@jayaabadi.id",
+    "sumber": "internal",
+    "channel": null,
+    "jenisPenawaran": "AMDAL",
+    "currentStage": "consideration",
+    "isDropped": false,
+    "droppedAtStage": null,
+    "projectValue": 650000000,
+    "picInternal": "Reza Pratama",
+    "noSurat": "SP/2025/010",
+    "notes": "Proyek bandara perintis, koordinasi dengan pemerintah",
+    "tanggalMasuk": "2025-05-05",
+    "createdAt": "2025-05-05",
+    "updatedAt": "2025-05-18",
+    "followUps": [
+      {
+        "number": 1,
+        "scheduledDate": "2025-05-12",
+        "done": true,
+        "doneDate": "2025-05-12"
+      },
+      {
+        "number": 2,
+        "scheduledDate": "2025-05-22",
+        "done": true,
+        "doneDate": "2025-05-22"
+      },
+      {
+        "number": 3,
+        "scheduledDate": "2025-06-02",
+        "done": false,
+        "doneDate": null
+      }
+    ]
+  },
+  {
+    "id": "inq-021",
+    "companyName": "PT Karya Utama",
+    "picKlien": "Yuliana Putri",
+    "phone": "0812-1234-5678",
+    "email": "yuliana@karyautama.co.id",
+    "sumber": "digital_marketing",
+    "channel": "website",
+    "jenisPenawaran": "KLHS",
+    "currentStage": "consideration",
+    "isDropped": false,
+    "droppedAtStage": null,
+    "projectValue": 420000000,
+    "picInternal": "Budi Santoso",
+    "noSurat": "SP/2025/011",
+    "notes": "Reklamasi pantai di Bali, perlu KLHS",
+    "tanggalMasuk": "2025-05-20",
+    "createdAt": "2025-05-20",
+    "updatedAt": "2025-06-02",
+    "followUps": [
+      {
+        "number": 1,
+        "scheduledDate": "2025-05-27",
+        "done": true,
+        "doneDate": "2025-05-27"
+      },
+      {
+        "number": 2,
+        "scheduledDate": "2025-06-07",
+        "done": false,
+        "doneDate": null
+      },
+      {
+        "number": 3,
+        "scheduledDate": null,
+        "done": false,
+        "doneDate": null
+      }
+    ]
+  },
+  {
+    "id": "inq-022",
+    "companyName": "CV Lancar Jaya",
+    "picKlien": "Achmad Ridwan",
+    "phone": "0813-2345-6780",
+    "email": "achmad@lancarjaya.com",
+    "sumber": "digital_marketing",
+    "channel": "website",
+    "jenisPenawaran": "SPPL",
+    "currentStage": "purchase",
+    "isDropped": false,
+    "droppedAtStage": null,
+    "projectValue": 55000000,
+    "picInternal": "Dewi Rahayu",
+    "noSurat": "SP/2024/001",
+    "notes": "Bengkel otomotif, izin lingkungan selesai",
+    "tanggalMasuk": "2024-08-10",
+    "createdAt": "2024-08-10",
+    "updatedAt": "2024-09-15",
+    "followUps": [
+      {
+        "number": 1,
+        "scheduledDate": "2024-08-17",
+        "done": true,
+        "doneDate": "2024-08-17"
+      },
+      {
+        "number": 2,
+        "scheduledDate": "2024-08-28",
+        "done": true,
+        "doneDate": "2024-08-28"
+      },
+      {
+        "number": 3,
+        "scheduledDate": "2024-09-10",
+        "done": true,
+        "doneDate": "2024-09-10"
+      }
+    ]
+  },
+  {
+    "id": "inq-023",
+    "companyName": "PT Mitra Sejati",
+    "picKlien": "Bayu Krisna",
+    "phone": "0821-3456-7892",
+    "email": "bayu@mitrasejati.id",
+    "sumber": "internal",
+    "channel": null,
+    "jenisPenawaran": "UKL-UPL",
+    "currentStage": "purchase",
+    "isDropped": false,
+    "droppedAtStage": null,
+    "projectValue": 320000000,
+    "picInternal": "Ahmad Fauzi",
+    "noSurat": "SP/2024/002",
+    "notes": "Pabrik makanan & minuman, deal sukses",
+    "tanggalMasuk": "2024-09-01",
+    "createdAt": "2024-09-01",
+    "updatedAt": "2024-10-20",
+    "followUps": [
+      {
+        "number": 1,
+        "scheduledDate": "2024-09-08",
+        "done": true,
+        "doneDate": "2024-09-08"
+      },
+      {
+        "number": 2,
+        "scheduledDate": "2024-09-20",
+        "done": true,
+        "doneDate": "2024-09-20"
+      },
+      {
+        "number": 3,
+        "scheduledDate": "2024-10-05",
+        "done": true,
+        "doneDate": "2024-10-05"
+      }
+    ]
+  },
+  {
+    "id": "inq-024",
+    "companyName": "PT Nusantara Jaya",
+    "picKlien": "Candra Wijayanti",
+    "phone": "0815-4567-8902",
+    "email": "candra@nusantarajaya.co.id",
+    "sumber": "digital_marketing",
+    "channel": "website",
+    "jenisPenawaran": "AMDAL",
+    "currentStage": "purchase",
+    "isDropped": false,
+    "droppedAtStage": null,
+    "projectValue": 1800000000,
+    "picInternal": "Siti Nurhaliza",
+    "noSurat": "SP/2024/003",
+    "notes": "Proyek pembangkit energi terbarukan",
+    "tanggalMasuk": "2024-07-15",
+    "createdAt": "2024-07-15",
+    "updatedAt": "2024-11-10",
+    "followUps": [
+      {
+        "number": 1,
+        "scheduledDate": "2024-07-22",
+        "done": true,
+        "doneDate": "2024-07-22"
+      },
+      {
+        "number": 2,
+        "scheduledDate": "2024-08-10",
+        "done": true,
+        "doneDate": "2024-08-10"
+      },
+      {
+        "number": 3,
+        "scheduledDate": "2024-09-05",
+        "done": true,
+        "doneDate": "2024-09-05"
+      }
+    ]
+  },
+  {
+    "id": "inq-025",
+    "companyName": "CV Permata Indah",
+    "picKlien": "Rini Astuti",
+    "phone": "0856-5678-9013",
+    "email": "rini@permataindah.com",
+    "sumber": "digital_marketing",
+    "channel": "website",
+    "jenisPenawaran": "Persetujuan Lingkungan",
+    "currentStage": "purchase",
+    "isDropped": false,
+    "droppedAtStage": null,
+    "projectValue": 185000000,
+    "picInternal": "Reza Pratama",
+    "noSurat": "SP/2024/004",
+    "notes": "Hotel bintang 3, persetujuan lingkungan untuk renovasi",
+    "tanggalMasuk": "2024-10-05",
+    "createdAt": "2024-10-05",
+    "updatedAt": "2024-12-01",
+    "followUps": [
+      {
+        "number": 1,
+        "scheduledDate": "2024-10-12",
+        "done": true,
+        "doneDate": "2024-10-12"
+      },
+      {
+        "number": 2,
+        "scheduledDate": "2024-10-25",
+        "done": true,
+        "doneDate": "2024-10-25"
+      },
+      {
+        "number": 3,
+        "scheduledDate": "2024-11-10",
+        "done": true,
+        "doneDate": "2024-11-10"
+      }
+    ]
+  },
+  {
+    "id": "inq-026",
+    "companyName": "PT Raya Konstruksi",
+    "picKlien": "Hartanto Budiman",
+    "phone": "0877-6789-0124",
+    "email": "hartanto@rayakons.id",
+    "sumber": "internal",
+    "channel": null,
+    "jenisPenawaran": "AMDAL",
+    "currentStage": "purchase",
+    "isDropped": false,
+    "droppedAtStage": null,
+    "projectValue": 2500000000,
+    "picInternal": "Budi Santoso",
+    "noSurat": "SP/2024/005",
+    "notes": "Proyek tol Sumatera, nilai terbesar tahun ini",
+    "tanggalMasuk": "2024-06-01",
+    "createdAt": "2024-06-01",
+    "updatedAt": "2024-10-30",
+    "followUps": [
+      {
+        "number": 1,
+        "scheduledDate": "2024-06-08",
+        "done": true,
+        "doneDate": "2024-06-08"
+      },
+      {
+        "number": 2,
+        "scheduledDate": "2024-07-01",
+        "done": true,
+        "doneDate": "2024-07-01"
+      },
+      {
+        "number": 3,
+        "scheduledDate": "2024-08-15",
+        "done": true,
+        "doneDate": "2024-08-15"
+      }
+    ]
+  },
+  {
+    "id": "inq-027",
+    "companyName": "CV Sejahtera Bersama",
+    "picKlien": "Novia Anggraini",
+    "phone": "0812-7890-1235",
+    "email": "novia@sejahterabersama.com",
+    "sumber": "digital_marketing",
+    "channel": "website",
+    "jenisPenawaran": "UKL-UPL",
+    "currentStage": "purchase",
+    "isDropped": false,
+    "droppedAtStage": null,
+    "projectValue": 145000000,
+    "picInternal": "Dewi Rahayu",
+    "noSurat": "SP/2025/012",
+    "notes": "Peternakan ayam broiler, izin sudah keluar",
+    "tanggalMasuk": "2025-01-10",
+    "createdAt": "2025-01-10",
+    "updatedAt": "2025-03-05",
+    "followUps": [
+      {
+        "number": 1,
+        "scheduledDate": "2025-01-17",
+        "done": true,
+        "doneDate": "2025-01-17"
+      },
+      {
+        "number": 2,
+        "scheduledDate": "2025-02-01",
+        "done": true,
+        "doneDate": "2025-02-01"
+      },
+      {
+        "number": 3,
+        "scheduledDate": "2025-02-20",
+        "done": true,
+        "doneDate": "2025-02-20"
+      }
+    ]
+  },
+  {
+    "id": "inq-028",
+    "companyName": "PT Tirta Alam",
+    "picKlien": "Budiono Susanto",
+    "phone": "0813-8901-2346",
+    "email": "budiono@tirtaalam.co.id",
+    "sumber": "digital_marketing",
+    "channel": "website",
+    "jenisPenawaran": "AMDAL",
+    "currentStage": "purchase",
+    "isDropped": false,
+    "droppedAtStage": null,
+    "projectValue": 950000000,
+    "picInternal": "Ahmad Fauzi",
+    "noSurat": "SP/2025/013",
+    "notes": "PLTA mini, proyek di Sulawesi Tengah",
+    "tanggalMasuk": "2025-02-01",
+    "createdAt": "2025-02-01",
+    "updatedAt": "2025-04-10",
+    "followUps": [
+      {
+        "number": 1,
+        "scheduledDate": "2025-02-08",
+        "done": true,
+        "doneDate": "2025-02-08"
+      },
+      {
+        "number": 2,
+        "scheduledDate": "2025-02-25",
+        "done": true,
+        "doneDate": "2025-02-25"
+      },
+      {
+        "number": 3,
+        "scheduledDate": "2025-03-15",
+        "done": true,
+        "doneDate": "2025-03-15"
+      }
+    ]
+  },
+  {
+    "id": "inq-029",
+    "companyName": "PT Utama Karya",
+    "picKlien": "Irwan Hakim",
+    "phone": "0878-9012-3457",
+    "email": "irwan@utamakarya.id",
+    "sumber": "internal",
+    "channel": null,
+    "jenisPenawaran": "Audit Lingkungan",
+    "currentStage": "retention",
+    "isDropped": false,
+    "droppedAtStage": null,
+    "projectValue": 280000000,
+    "picInternal": "Siti Nurhaliza",
+    "noSurat": "SP/2024/006",
+    "notes": "Klien lama, sudah repeat order kedua",
+    "tanggalMasuk": "2024-03-10",
+    "createdAt": "2024-03-10",
+    "updatedAt": "2025-01-15",
+    "followUps": [
+      {
+        "number": 1,
+        "scheduledDate": "2024-03-17",
+        "done": true,
+        "doneDate": "2024-03-17"
+      },
+      {
+        "number": 2,
+        "scheduledDate": "2024-04-01",
+        "done": true,
+        "doneDate": "2024-04-01"
+      },
+      {
+        "number": 3,
+        "scheduledDate": "2024-04-20",
+        "done": true,
+        "doneDate": "2024-04-20"
+      }
+    ]
+  },
+  {
+    "id": "inq-030",
+    "companyName": "CV Wahana Jaya",
+    "picKlien": "Setya Budi",
+    "phone": "0822-0123-4568",
+    "email": "setya@wahanajaya.com",
+    "sumber": "digital_marketing",
+    "channel": "website",
+    "jenisPenawaran": "UKL-UPL",
+    "currentStage": "retention",
+    "isDropped": false,
+    "droppedAtStage": null,
+    "projectValue": 195000000,
+    "picInternal": "Reza Pratama",
+    "noSurat": "SP/2024/007",
+    "notes": "Sudah 2x proyek, order ke-3 sedang berjalan",
+    "tanggalMasuk": "2024-05-05",
+    "createdAt": "2024-05-05",
+    "updatedAt": "2025-02-20",
+    "followUps": [
+      {
+        "number": 1,
+        "scheduledDate": "2024-05-12",
+        "done": true,
+        "doneDate": "2024-05-12"
+      },
+      {
+        "number": 2,
+        "scheduledDate": "2024-05-25",
+        "done": true,
+        "doneDate": "2024-05-25"
+      },
+      {
+        "number": 3,
+        "scheduledDate": "2024-06-10",
+        "done": true,
+        "doneDate": "2024-06-10"
+      }
+    ]
+  },
+  {
+    "id": "inq-031",
+    "companyName": "PT Xtra Prima",
+    "picKlien": "Farida Nurcahyani",
+    "phone": "0815-1234-5679",
+    "email": "farida@xtraprima.co.id",
+    "sumber": "internal",
+    "channel": null,
+    "jenisPenawaran": "AMDAL",
+    "currentStage": "retention",
+    "isDropped": false,
+    "droppedAtStage": null,
+    "projectValue": 1500000000,
+    "picInternal": "Budi Santoso",
+    "noSurat": "SP/2024/008",
+    "notes": "Grup perusahaan, 3 proyek sekaligus",
+    "tanggalMasuk": "2024-04-01",
+    "createdAt": "2024-04-01",
+    "updatedAt": "2025-03-01",
+    "followUps": [
+      {
+        "number": 1,
+        "scheduledDate": "2024-04-08",
+        "done": true,
+        "doneDate": "2024-04-08"
+      },
+      {
+        "number": 2,
+        "scheduledDate": "2024-05-01",
+        "done": true,
+        "doneDate": "2024-05-01"
+      },
+      {
+        "number": 3,
+        "scheduledDate": "2024-06-01",
+        "done": true,
+        "doneDate": "2024-06-01"
+      }
+    ]
+  },
+  {
+    "id": "inq-032",
+    "companyName": "CV Yakin Jaya",
+    "picKlien": "Taufik Hidayat",
+    "phone": "0856-2345-6780",
+    "email": "taufik@yakinjaya.com",
+    "sumber": "digital_marketing",
+    "channel": "website",
+    "jenisPenawaran": "KLHS",
+    "currentStage": "retention",
+    "isDropped": false,
+    "droppedAtStage": null,
+    "projectValue": 380000000,
+    "picInternal": "Dewi Rahayu",
+    "noSurat": "SP/2024/009",
+    "notes": "Konsultan publik, sudah 3 kali kerja sama",
+    "tanggalMasuk": "2024-02-15",
+    "createdAt": "2024-02-15",
+    "updatedAt": "2025-01-05",
+    "followUps": [
+      {
+        "number": 1,
+        "scheduledDate": "2024-02-22",
+        "done": true,
+        "doneDate": "2024-02-22"
+      },
+      {
+        "number": 2,
+        "scheduledDate": "2024-03-05",
+        "done": true,
+        "doneDate": "2024-03-05"
+      },
+      {
+        "number": 3,
+        "scheduledDate": "2024-03-20",
+        "done": true,
+        "doneDate": "2024-03-20"
+      }
+    ]
+  },
+  {
+    "id": "inq-033",
+    "companyName": "PT Zona Hijau",
+    "picKlien": "Laila Sari",
+    "phone": "0877-3456-7893",
+    "email": "laila@zonahijau.id",
+    "sumber": "digital_marketing",
+    "channel": "website",
+    "jenisPenawaran": "Persetujuan Lingkungan",
+    "currentStage": "retention",
+    "isDropped": false,
+    "droppedAtStage": null,
+    "projectValue": 220000000,
+    "picInternal": "Ahmad Fauzi",
+    "noSurat": "SP/2024/010",
+    "notes": "Perusahaan eco-friendly, kolaborasi jangka panjang",
+    "tanggalMasuk": "2024-06-20",
+    "createdAt": "2024-06-20",
+    "updatedAt": "2025-02-10",
+    "followUps": [
+      {
+        "number": 1,
+        "scheduledDate": "2024-06-27",
+        "done": true,
+        "doneDate": "2024-06-27"
+      },
+      {
+        "number": 2,
+        "scheduledDate": "2024-07-10",
+        "done": true,
+        "doneDate": "2024-07-10"
+      },
+      {
+        "number": 3,
+        "scheduledDate": "2024-07-25",
+        "done": true,
+        "doneDate": "2024-07-25"
+      }
+    ]
+  },
+  {
+    "id": "inq-034",
+    "companyName": "PT Alam Hijau",
+    "picKlien": "Kusuma Wardana",
+    "phone": "0812-4567-8902",
+    "email": "kusuma@alamhijau.co.id",
+    "sumber": "internal",
+    "channel": null,
+    "jenisPenawaran": "AMDAL",
+    "currentStage": "advocacy",
+    "isDropped": false,
+    "droppedAtStage": null,
+    "projectValue": 2200000000,
+    "picInternal": "Siti Nurhaliza",
+    "noSurat": "SP/2023/001",
+    "notes": "Klien VIP, aktif referensikan ke partner bisnis",
+    "tanggalMasuk": "2024-01-15",
+    "createdAt": "2024-01-15",
+    "updatedAt": "2025-01-15",
+    "followUps": [
+      {
+        "number": 1,
+        "scheduledDate": "2024-01-22",
+        "done": true,
+        "doneDate": "2024-01-22"
+      },
+      {
+        "number": 2,
+        "scheduledDate": "2024-02-10",
+        "done": true,
+        "doneDate": "2024-02-10"
+      },
+      {
+        "number": 3,
+        "scheduledDate": "2024-03-01",
+        "done": true,
+        "doneDate": "2024-03-01"
+      }
+    ]
+  },
+  {
+    "id": "inq-035",
+    "companyName": "CV Bakti Jaya",
+    "picKlien": "Rosalinda Permata",
+    "phone": "0819-5678-9013",
+    "email": "rosalinda@baktijaya.com",
+    "sumber": "digital_marketing",
+    "channel": "website",
+    "jenisPenawaran": "UKL-UPL",
+    "currentStage": "advocacy",
+    "isDropped": false,
+    "droppedAtStage": null,
+    "projectValue": 560000000,
+    "picInternal": "Reza Pratama",
+    "noSurat": "SP/2023/002",
+    "notes": "Sudah 4 referral masuk dari klien ini",
+    "tanggalMasuk": "2024-02-01",
+    "createdAt": "2024-02-01",
+    "updatedAt": "2025-02-01",
+    "followUps": [
+      {
+        "number": 1,
+        "scheduledDate": "2024-02-08",
+        "done": true,
+        "doneDate": "2024-02-08"
+      },
+      {
+        "number": 2,
+        "scheduledDate": "2024-02-22",
+        "done": true,
+        "doneDate": "2024-02-22"
+      },
+      {
+        "number": 3,
+        "scheduledDate": "2024-03-10",
+        "done": true,
+        "doneDate": "2024-03-10"
+      }
+    ]
+  },
+  {
+    "id": "inq-036",
+    "companyName": "PT Cipta Lestari",
+    "picKlien": "Hendryanto Lius",
+    "phone": "0813-6789-0124",
+    "email": "hendryanto@ciptalestari.id",
+    "sumber": "internal",
+    "channel": null,
+    "jenisPenawaran": "AMDAL",
+    "currentStage": "advocacy",
+    "isDropped": false,
+    "droppedAtStage": null,
+    "projectValue": 1750000000,
+    "picInternal": "Budi Santoso",
+    "noSurat": "SP/2023/003",
+    "notes": "Klien prioritas, 5 tahun kerja sama",
+    "tanggalMasuk": "2024-01-20",
+    "createdAt": "2024-01-20",
+    "updatedAt": "2025-01-20",
+    "followUps": [
+      {
+        "number": 1,
+        "scheduledDate": "2024-01-27",
+        "done": true,
+        "doneDate": "2024-01-27"
+      },
+      {
+        "number": 2,
+        "scheduledDate": "2024-02-15",
+        "done": true,
+        "doneDate": "2024-02-15"
+      },
+      {
+        "number": 3,
+        "scheduledDate": "2024-03-05",
+        "done": true,
+        "doneDate": "2024-03-05"
+      }
+    ]
+  },
+  {
+    "id": "inq-037",
+    "companyName": "PT Dwi Karya",
+    "picKlien": "Antonius Wijaya",
+    "phone": "0821-7890-1236",
+    "email": "antonius@dwikarya.co.id",
+    "sumber": "digital_marketing",
+    "channel": "website",
+    "jenisPenawaran": "UKL-UPL",
+    "currentStage": "interest",
+    "isDropped": true,
+    "droppedAtStage": "interest",
+    "projectValue": null,
+    "picInternal": "Dewi Rahayu",
+    "noSurat": null,
+    "notes": "Tidak merespon setelah FU pertama",
+    "tanggalMasuk": "2024-10-15",
+    "createdAt": "2024-10-15",
+    "updatedAt": "2024-11-01",
+    "followUps": [
+      {
+        "number": 1,
+        "scheduledDate": "2024-10-22",
+        "done": true,
+        "doneDate": "2024-10-22"
+      },
+      {
+        "number": 2,
+        "scheduledDate": "2024-11-01",
+        "done": false,
+        "doneDate": null
+      },
+      {
+        "number": 3,
+        "scheduledDate": null,
+        "done": false,
+        "doneDate": null
+      }
+    ]
+  },
+  {
+    "id": "inq-038",
+    "companyName": "CV Elang Mas",
+    "picKlien": "Putri Wulandari",
+    "phone": "0857-8901-2347",
+    "email": "putri@elangmas.com",
+    "sumber": "digital_marketing",
+    "channel": "website",
+    "jenisPenawaran": "SPPL",
+    "currentStage": "consideration",
+    "isDropped": true,
+    "droppedAtStage": "consideration",
+    "projectValue": 80000000,
+    "picInternal": "Ahmad Fauzi",
+    "noSurat": "SP/2024/011",
+    "notes": "Harga tidak sesuai anggaran klien",
+    "tanggalMasuk": "2024-09-20",
+    "createdAt": "2024-09-20",
+    "updatedAt": "2024-11-10",
+    "followUps": [
+      {
+        "number": 1,
+        "scheduledDate": "2024-09-27",
+        "done": true,
+        "doneDate": "2024-09-27"
+      },
+      {
+        "number": 2,
+        "scheduledDate": "2024-10-10",
+        "done": true,
+        "doneDate": "2024-10-10"
+      },
+      {
+        "number": 3,
+        "scheduledDate": "2024-10-25",
+        "done": false,
+        "doneDate": null
+      }
+    ]
+  },
+  {
+    "id": "inq-039",
+    "companyName": "PT Flora Nusantara",
+    "picKlien": "Dedy Kurniawan",
+    "phone": "0878-9012-3458",
+    "email": "dedy@floranusantara.id",
+    "sumber": "internal",
+    "channel": null,
+    "jenisPenawaran": "AMDAL",
+    "currentStage": "consideration",
+    "isDropped": true,
+    "droppedAtStage": "consideration",
+    "projectValue": 450000000,
+    "picInternal": "Siti Nurhaliza",
+    "noSurat": "SP/2024/012",
+    "notes": "Proyek tertunda karena perubahan kebijakan",
+    "tanggalMasuk": "2024-08-05",
+    "createdAt": "2024-08-05",
+    "updatedAt": "2024-10-20",
+    "followUps": [
+      {
+        "number": 1,
+        "scheduledDate": "2024-08-12",
+        "done": true,
+        "doneDate": "2024-08-12"
+      },
+      {
+        "number": 2,
+        "scheduledDate": "2024-08-25",
+        "done": true,
+        "doneDate": "2024-08-25"
+      },
+      {
+        "number": 3,
+        "scheduledDate": "2024-09-10",
+        "done": false,
+        "doneDate": null
+      }
+    ]
+  },
+  {
+    "id": "inq-040",
+    "companyName": "CV Gemilang Jaya",
+    "picKlien": "Susanti Rahayuningsih",
+    "phone": "0812-0123-4569",
+    "email": "susanti@gemilangjaya.com",
+    "sumber": "digital_marketing",
+    "channel": "website",
+    "jenisPenawaran": "UKL-UPL",
+    "currentStage": "interest",
+    "isDropped": true,
+    "droppedAtStage": "interest",
+    "projectValue": null,
+    "picInternal": "Reza Pratama",
+    "noSurat": null,
+    "notes": "Budget tidak sesuai, prospek terlalu dini",
+    "tanggalMasuk": "2025-01-08",
+    "createdAt": "2025-01-08",
+    "updatedAt": "2025-01-20",
+    "followUps": [
+      {
+        "number": 1,
+        "scheduledDate": "2025-01-15",
+        "done": true,
+        "doneDate": "2025-01-15"
+      },
+      {
+        "number": 2,
+        "scheduledDate": null,
+        "done": false,
+        "doneDate": null
+      },
+      {
+        "number": 3,
+        "scheduledDate": null,
+        "done": false,
+        "doneDate": null
+      }
+    ]
+  },
+  {
+    "id": "inq-041",
+    "companyName": "PT Harum Persada",
+    "picKlien": "Wendi Setiawan",
+    "phone": "0813-1234-5670",
+    "email": "wendi@harumpersada.co.id",
+    "sumber": "digital_marketing",
+    "channel": "website",
+    "jenisPenawaran": "Audit Lingkungan",
+    "currentStage": "purchase",
+    "isDropped": true,
+    "droppedAtStage": "purchase",
+    "projectValue": 320000000,
+    "picInternal": "Budi Santoso",
+    "noSurat": "SP/2024/013",
+    "notes": "Proyek tertunda karena pergantian manajemen",
+    "tanggalMasuk": "2024-07-01",
+    "createdAt": "2024-07-01",
+    "updatedAt": "2024-12-15",
+    "followUps": [
+      {
+        "number": 1,
+        "scheduledDate": "2024-07-08",
+        "done": true,
+        "doneDate": "2024-07-08"
+      },
+      {
+        "number": 2,
+        "scheduledDate": "2024-08-01",
+        "done": true,
+        "doneDate": "2024-08-01"
+      },
+      {
+        "number": 3,
+        "scheduledDate": "2024-09-01",
+        "done": true,
+        "doneDate": "2024-09-01"
+      }
+    ]
+  },
+  {
+    "id": "inq-042",
+    "companyName": "CV Insan Karya",
+    "picKlien": "Febrianti Hapsari",
+    "phone": "0821-2345-6781",
+    "email": "febrianti@insankarya.com",
+    "sumber": "internal",
+    "channel": null,
+    "jenisPenawaran": "SPPL",
+    "currentStage": "consideration",
+    "isDropped": true,
+    "droppedAtStage": "consideration",
+    "projectValue": 65000000,
+    "picInternal": "Dewi Rahayu",
+    "noSurat": "SP/2025/014",
+    "notes": "Klien pilih vendor lain yang lebih murah",
+    "tanggalMasuk": "2025-03-10",
+    "createdAt": "2025-03-10",
+    "updatedAt": "2025-04-20",
+    "followUps": [
+      {
+        "number": 1,
+        "scheduledDate": "2025-03-17",
+        "done": true,
+        "doneDate": "2025-03-17"
+      },
+      {
+        "number": 2,
+        "scheduledDate": "2025-03-28",
+        "done": true,
+        "doneDate": "2025-03-28"
+      },
+      {
+        "number": 3,
+        "scheduledDate": "2025-04-10",
+        "done": false,
+        "doneDate": null
+      }
+    ]
+  },
+  {
+    "id": "inq-043",
+    "companyName": "PT Jembar Alam",
+    "picKlien": "Hendra Pranata",
+    "phone": "0815-3456-7892",
+    "email": "hendra@jembaralam.id",
+    "sumber": "digital_marketing",
+    "channel": "website",
+    "jenisPenawaran": "KLHS",
+    "currentStage": "interest",
+    "isDropped": true,
+    "droppedAtStage": "interest",
+    "projectValue": null,
+    "picInternal": "Ahmad Fauzi",
+    "noSurat": null,
+    "notes": "Tidak ada kabar setelah kontak pertama",
+    "tanggalMasuk": "2025-04-25",
+    "createdAt": "2025-04-25",
+    "updatedAt": "2025-05-10",
+    "followUps": [
+      {
+        "number": 1,
+        "scheduledDate": "2025-05-02",
+        "done": false,
+        "doneDate": null
+      },
+      {
+        "number": 2,
+        "scheduledDate": null,
+        "done": false,
+        "doneDate": null
+      },
+      {
+        "number": 3,
+        "scheduledDate": null,
+        "done": false,
+        "doneDate": null
+      }
+    ]
+  },
+  {
+    "id": "inq-044",
+    "companyName": "CV Karya Mandiri",
+    "picKlien": "Slamet Raharjo",
+    "phone": "0856-4567-8903",
+    "email": "slamet@karyamandiri.com",
+    "sumber": "digital_marketing",
+    "channel": "website",
+    "jenisPenawaran": "UKL-UPL",
+    "currentStage": "consideration",
+    "isDropped": false,
+    "droppedAtStage": null,
+    "projectValue": 125000000,
+    "picInternal": "Siti Nurhaliza",
+    "noSurat": "SP/2025/015",
+    "notes": "Industri pengolahan ikan, sedang evaluasi proposal",
+    "tanggalMasuk": "2025-05-28",
+    "createdAt": "2025-05-28",
+    "updatedAt": "2025-06-10",
+    "followUps": [
+      {
+        "number": 1,
+        "scheduledDate": "2025-06-04",
+        "done": true,
+        "doneDate": "2025-06-04"
+      },
+      {
+        "number": 2,
+        "scheduledDate": "2025-06-18",
+        "done": false,
+        "doneDate": null
+      },
+      {
+        "number": 3,
+        "scheduledDate": null,
+        "done": false,
+        "doneDate": null
+      }
+    ]
+  },
+  {
+    "id": "inq-045",
+    "companyName": "PT Luhur Jaya",
+    "picKlien": "Megawati Soedaryono",
+    "phone": "0877-5678-9014",
+    "email": "megawati@luharjaya.co.id",
+    "sumber": "digital_marketing",
+    "channel": "website",
+    "jenisPenawaran": "AMDAL",
+    "currentStage": "consideration",
+    "isDropped": false,
+    "droppedAtStage": null,
+    "projectValue": 780000000,
+    "picInternal": "Reza Pratama",
+    "noSurat": "SP/2025/016",
+    "notes": "Proyek pelabuhan kecil, sedang negosiasi harga",
+    "tanggalMasuk": "2025-06-02",
+    "createdAt": "2025-06-02",
+    "updatedAt": "2025-06-15",
+    "followUps": [
+      {
+        "number": 1,
+        "scheduledDate": "2025-06-09",
+        "done": true,
+        "doneDate": "2025-06-09"
+      },
+      {
+        "number": 2,
+        "scheduledDate": "2025-06-22",
+        "done": false,
+        "doneDate": null
+      },
+      {
+        "number": 3,
+        "scheduledDate": null,
+        "done": false,
+        "doneDate": null
+      }
+    ]
+  }
+]
