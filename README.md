@@ -2,7 +2,7 @@
 
 A frontend demo of a **B2B Digital Marketing Analytics Platform** built to monitor, visualize, and analyze the full prospect journey — from first digital touchpoint to loyal advocacy. Designed around a **6-stage marketing funnel** grounded in Gartner's research on B2B buyer behavior.
 
-> ⚠️ **All data in this app is simulated.** Company names, PIC names, project values, DA/PA metrics, and activity logs are fictional and created solely for demonstration purposes. No relation to any real business entity. All CRUD operations run in-memory and reset on page refresh.
+> **This is a real project.** The platform was built and used in an actual B2B professional services context. For this public portfolio version, all company names, PIC names, project values, and client-identifiable data have been replaced with anonymized dummy data to protect business confidentiality. The logic, funnel structure, features, and analytics approach reflect the real implementation.
 
 ---
 
@@ -214,10 +214,10 @@ No environment variables, no backend, no login required. The app launches direct
 
 ## Demo Notes
 
-- **All data is fictional** — company names, PIC names, project values, DA/PA figures, and audit logs are randomly generated for demonstration
+- **Real project, anonymized data** — this platform was built and used in a real B2B professional services environment. All company names, PIC names, project values, and identifying client data have been replaced with dummy data to protect business confidentiality. The features, funnel logic, and analytics approach reflect the actual implementation.
 - **CRUD is in-memory only** — adding, editing, or deleting records works during the session but resets on page refresh
-- **No real API calls** — DA/PA data from Moz is simulated; in a production version this would be fetched weekly via the Moz Link Explorer API
-- **No authentication** — the demo bypasses login and starts as `super_admin`; a production version would include proper auth flow
+- **No real API calls** — DA/PA data from Moz is simulated; in the production version this is fetched weekly via the Moz Link Explorer API
+- **No authentication** — the demo bypasses login and starts as `super_admin`; the production version includes a proper auth and user approval flow
 
 ---
 
