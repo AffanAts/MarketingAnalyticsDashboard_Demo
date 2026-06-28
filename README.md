@@ -2,6 +2,10 @@
 
 A frontend demo of a **B2B Digital Marketing Analytics Platform** built to monitor, visualize, and analyze the full prospect journey — from first digital touchpoint to loyal advocacy. Designed around a **6-stage marketing funnel** grounded in Gartner's research on B2B buyer behavior.
 
+**🔗 Live Demo: [marketing-analytics-dashboard-demo.vercel.app](https://marketing-analytics-dashboard-demo.vercel.app/)**
+
+---
+
 > **This is a real project.** The platform was built and used in an actual B2B professional services context. For this public portfolio version, all company names, PIC names, project values, and client-identifiable data have been replaced with anonymized dummy data to protect business confidentiality. The logic, funnel structure, features, and analytics approach reflect the real implementation.
 
 ---
